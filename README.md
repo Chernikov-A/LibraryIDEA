@@ -1,2 +1,0 @@
-# LibraryIDEA
-test project
